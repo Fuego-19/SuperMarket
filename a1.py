@@ -1,11 +1,3 @@
-'''
-- This is the skeleton code, wherein you have to write the logic for each of the
-functions defined below.
-
-- Feel free to add new helper functions, but DO NOT modify/delete the given functions.
-
-- You MUST complete the functions defined below, except the ones that are already defined.
-'''
 
 
 def show_menu():
